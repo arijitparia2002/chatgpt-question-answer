@@ -21,7 +21,7 @@ for question in questions:
         sys.stdout.flush()
     
     # Update CSV file with question and answer
-    with open("qa.csv", "a", newline="") as csv_file:
+    with open("qa.csv", "a", newline="", encoding="utf-8") as csv_file:
         csv_writer = csv.writer(csv_file)
         csv_writer.writerow([question, answer])
     
