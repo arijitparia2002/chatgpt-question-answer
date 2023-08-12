@@ -1,6 +1,6 @@
 # ChatGPT Question-Answer Generator
 
-A simple Python script that uses the OpenAI GPT-3.5 model to answer questions provided in a JSON file and updates a CSV file with the questions and their corresponding answers.
+A simple Python script that uses the OpenAI GPT model to answer questions provided in a JSON file and updates a CSV file with the questions and their corresponding answers.
 
 ## Installation
 
