@@ -15,7 +15,7 @@ pip install -U chatgpt
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/chatgpt-question-answer.git
+git clone https://github.com/arijitparia2002/chatgpt-question-answer.git
 cd chatgpt-question-answer
 ```
 
