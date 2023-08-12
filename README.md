@@ -43,6 +43,10 @@ The script will process each question, generate answers, and update a CSV file n
 
 The CSV file `qa.csv` will have two columns: "Question" and "Answer". Each processed question and its corresponding answer will be added as a new row in the CSV file.
 
+## Markdown Output
+
+In addition to the CSV file, the script will generate a Markdown file named output.md. This file will include the questions as headings (with `###`) and the corresponding answers in formatted text. Each question and answer pair will be separated by a blank line.
+
 ## Contributing
 
 Contributions are welcome! If you have any improvements or suggestions, feel free to submit a pull request.
